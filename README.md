@@ -1,22 +1,12 @@
-# Hi 👋, I'm Emma Kemp
+# Hi, I'm Emma Kemp
+
+### About Me
 
 ### Computer Science and AI Bsc Student from the UK passionate about AI and Web development
 
 - 🔭 I'm currently working on **Portfolio Website **
-
-- 🌱 I'm currently learning **Java at University
-Computer vision using OpenCV and Python**
-
-- 🤝 I'm looking for help with **Learning machine learning **
-
-- 💬 Ask me about **Web development with C#, OOP**
-
-- 📫 How to reach me **emmalkemp@outlook.com**
-
-- ⚡ Fun fact **I love hiking **
-
-- 👨‍💻 All of my projects are available at **[https://emma-kemp.com](https://emma-kemp.com)**
-
+-  I'm currently learning **Java at University and Computer vision using OpenCV and Python**
+-  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/jazzyfrenchfries" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="jazzyfrenchfries" height="30" width="40" /></a>
