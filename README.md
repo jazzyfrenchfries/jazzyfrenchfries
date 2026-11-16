@@ -4,7 +4,7 @@
 
 ### Computer Science and AI Bsc Student from the UK passionate about AI and Web development
 
-- 🔭 I'm currently working on **Portfolio Website **
+- 🔭 I'm currently working on ** Stardew Valley comfort mod **
 -  I'm currently learning **Java at University and Computer vision using OpenCV and Python**
 -  
 <h3 align="left">Connect with me:</h3>
